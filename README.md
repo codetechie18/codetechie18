@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="  ![image](https://github.com/user-attachments/assets/260b74d3-c27b-4115-b2a5-c27fefe30004)
+  <img height="200" src="   
  />
 </div>
 
