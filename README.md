@@ -110,18 +110,18 @@
 
 <h2 align="left">📊 GitHub Stats:</h2>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=praanav-cpu&" alt="praanav-cpu" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=codetechie18&" alt="praanav-cpu" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=praanav-cpu&show_icons=true&locale=en" alt="praanav-cpu" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=codetechie18&show_icons=true&locale=en" alt="praanav-cpu" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praanav-cpu&show_icons=true&locale=en&layout=compact" alt="praanav-cpu" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codetechie18&show_icons=true&locale=en&layout=compact" alt="praanav-cpu" /></p>
 
  
 
 ###
 
  
-[![Praanav-cpu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Praanav-cpu&theme=react-dark)](https://github.com/Praanav-cpu/github-readme-activity-graph)
+[![Praanav-cpu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Praanav-cpu&theme=react-dark)](https://github.com/codetechie18/github-readme-activity-graph)
 
 
 <details align="center">
