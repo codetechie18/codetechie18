@@ -121,7 +121,7 @@
 ###
 
  
-[![Praanav-cpu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Praanav-cpu&theme=react-dark)](https://github.com/codetechie18/github-readme-activity-graph)
+[![codetichie18's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codetechie18&theme=react-dark)](https://github.com/codetechie18/github-readme-activity-graph)
 
 
 <details align="center">
