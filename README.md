@@ -138,8 +138,6 @@
 
 | Position | Hackathon | Duration | Description | Link |
 |----------|-----------|----------|-------------|------|
-| Organising | Haack-Ar-Anya | 15th Nov 2025 | Jharkhand India's 24 Hours Premiere Hackathon | [NariNexus](https://www.hackaranya.live/) |
-| Organising | Hack4Brahma | 4th Oct 2025 | Northeast India's 24 Hours Premiere Hackathon | [NariNexus](https://www.hack4brahma.live/) |
 | Organising | NariHacks | 13th Sep 2025 | Central India’s Biggest Women-Only Hackathon | [NariNexus](https://www.narinexus.live/) |
 | Organising | Hack4Maha | 30th Aug 2025 | Central India's 24 Hours Premiere Hackathon | [NariNexus](https://www.hack4maha.live/) |
  
