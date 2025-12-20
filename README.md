@@ -22,11 +22,32 @@
 
 ###
 
-<br clear="both">
+<table align="center" width="90%">
+  <tr>
+    <!-- LEFT TEXT -->
+    <td style="vertical-align: top; padding-right: 60px;">
 
-<p align="left">🔭 I’m currently working on My 3d Portfolio<br><br>🌱 I’m currently learning MERN<br><br>📫 How to reach me  :  pranavtekade18@gmail.com<br><br>💬 Ask me about  react , gsap<br><br>⚡ Fun fact I am Funny</p>
+🔭 I’m currently working on My 3d Portfolio  
 
-###
+🌱 I’m currently learning MERN  
+
+📫 How to reach me : pranavtekade18@gmail.com  
+
+💬 Ask me about react , gsap  
+
+⚡ Fun fact: I am Funny  
+
+   
+   < 
+    <td style="vertical-align: top; padding-left: 60px;">
+      <img 
+        src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" 
+        width="250"
+      />
+    </td>
+  </tr>
+</table>
+
 
 <h1 align="left">💻 Tech Stack:</h1>
 
@@ -130,16 +151,7 @@
 [![codetichie18's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codetechie18&theme=react-dark)](https://github.com/codetechie18/github-readme-activity-graph)
 
 
-<details align="center">
-  <summary> 
-    <h3>👨🏻‍💻 Hackathon Expirences</h3>
-  </summary>
-<br>
 
-| Position | Hackathon | Duration | Description | Link |
-|----------|-----------|----------|-------------|------|
-| Organising | NariHacks | 13th Sep 2025 | Central India’s Biggest Women-Only Hackathon | [NariNexus](https://www.narinexus.live/) |
-| Organising | Hack4Maha | 30th Aug 2025 | Central India's 24 Hours Premiere Hackathon | [NariNexus](https://www.hack4maha.live/) |
  
 
 
