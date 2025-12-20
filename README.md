@@ -150,7 +150,13 @@
  
 [![codetichie18's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codetechie18&theme=react-dark)](https://github.com/codetechie18/github-readme-activity-graph)
 
-
+ <div align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" 
+    width="auto" 
+    height="500"
+  >
+</div>
 
  
 
