@@ -1,9 +1,9 @@
 <div align="center">
  <div align="center">
   <img 
-    src="https://user-images.githubusercontent.com/74038190/212741495-c8f8df15-ce6c-4203-a6e5-b93530e778d7.png" 
-    width="900" 
-    height="650"
+    src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjYyNTE4NzksIm5iZiI6MTc2NjI1MTU3OSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjIwVDE3MjYxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRkMjFkOWI0ZTZkYjU1Mjk2YjNmYmFhZDg3NWRjNjRhMDg3YjdiODMxNTExNmYwYzk0NGUxNWRmYzZjZTdkNmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.TTcW-fnK1R2UGkNIJMbZ7ETBqriPuS-Psp3ivmP-ZT4" 
+    width="1200" 
+    height="auto"
   >
 </div>
 
@@ -87,6 +87,14 @@
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="33" alt="react logo"  />
 </div>
 
+ <div align="right">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"
+    width="auto" 
+    height="150"
+  >
+</div>
+
 ###
 
 <h2 align="left">Backend Development:</h2>
@@ -96,6 +104,14 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="33" alt="nodejs logo"  />
 </div>
+
+<!-- <div align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"  />
+</div> -->
+
+
+
+
 
 ###
 
