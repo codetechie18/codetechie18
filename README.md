@@ -136,7 +136,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
 </div>
 
-###
+### 
 
 <h2 align="left">Design and Graphics Tools:</h2>
 
@@ -175,7 +175,6 @@
 </div>
 
 
-## soon 
 
  
  
