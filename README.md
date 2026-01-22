@@ -161,7 +161,6 @@
 
  
 
-###
 
  
 [![codetichie18's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codetechie18&theme=react-dark)](https://github.com/codetechie18/github-readme-activity-graph)
@@ -173,4 +172,4 @@
     height="500"
   >
 </div>
-### Soon 
+
