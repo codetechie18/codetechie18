@@ -148,12 +148,15 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="33" alt="figma logo"  />
 </div>
 
-### hh
+### 
 
 <h2 align="left">📊 GitHub Stats:</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codetechie18&layout=compact" alt="codetechie18" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codetechie18&layout=compact" alt="codetechie18" /></p> -->
 
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=codetechie18&theme=default" alt="GitHub Streak Stats" />
+</p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=codetechie18&show_icons=true&locale=en" alt="codetechie18" /></p>
 
