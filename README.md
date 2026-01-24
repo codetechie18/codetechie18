@@ -154,9 +154,9 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codetechie18&layout=compact" alt="codetechie18" /></p> -->
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://streak-stats.demolab.com/?user=codetechie18&theme=default" alt="GitHub Streak Stats" />
-</p>
+</p> -->
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=codetechie18&show_icons=true&locale=en" alt="codetechie18" /></p>
 
