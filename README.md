@@ -158,6 +158,8 @@
   <img src="https://streak-stats.demolab.com/?user=codetechie18&theme=default" alt="GitHub Streak Stats" />
 </p> -->
 
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=codetechie18&theme=dark">
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username= codetechie18&theme=github_dark" > -->
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=codetechie18&show_icons=true&locale=en" alt="codetechie18" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codetechie18&show_icons=true&locale=en&layout=compact" alt="codetechie18" /></p>
