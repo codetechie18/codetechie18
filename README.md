@@ -104,10 +104,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="33" alt="nodejs logo"  />
 </div>
 
-<!-- <div align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"  />
-</div> -->
-
 
 
 
@@ -152,14 +148,9 @@
 
 <h2 align="left">📊 GitHub Stats:</h2>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codetechie18&layout=compact" alt="codetechie18" /></p> -->
 
-<!-- <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=codetechie18&theme=default" alt="GitHub Streak Stats" />
-</p> -->
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=codetechie18&theme=dark">
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username= codetechie18&theme=github_dark" > -->
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=codetechie18&show_icons=true&locale=en" alt="codetechie18" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codetechie18&show_icons=true&locale=en&layout=compact" alt="codetechie18" /></p>
@@ -178,6 +169,5 @@
   >
 </div>
 
-## soon
 
 
